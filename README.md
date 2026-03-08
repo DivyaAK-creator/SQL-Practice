@@ -18,3 +18,7 @@ Day 4 : DISTINCT for unique records,
         DELETE FROM...WHERE to delete rows.
 Day 5 : Main aggregate functions ,
         COUNT(),SUM(),AVG(),MIN(),MAX().
+Day 6 : PRIMARY KEY (uniquely identifies each row),
+        UNIQUE CONSTRAINT (allow null but each column is different),
+        NOT NULL (compalsory add) ,
+        DEFAULT (autometically insert default value).

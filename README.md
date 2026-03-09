@@ -22,3 +22,5 @@ Day 6 : PRIMARY KEY (uniquely identifies each row),
         UNIQUE CONSTRAINT (allow null but each column is different),
         NOT NULL (compalsory add) ,
         DEFAULT (autometically insert default value).
+Day 7 : CRUD Operations
+        (Create,Read,Update,Delete)

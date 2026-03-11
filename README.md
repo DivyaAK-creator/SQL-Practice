@@ -31,3 +31,5 @@ Day 7 : CRUD Operations
 Day 8 : String Functions(for string manupulation),
         Date Functions,
         Other Useful Functions.
+
+Day 9 : Practicing Mini tasks on Functions.

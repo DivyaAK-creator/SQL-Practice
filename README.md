@@ -53,3 +53,5 @@ Day 12: Practiced GROUP BY queries
         HAVING (filters grouped results)
         
 Day 13: Mini Project Task
+
+Day 14:Deep Learning of PRIMARY KEY,FOREIGN KEY with small task.

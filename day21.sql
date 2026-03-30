@@ -54,5 +54,5 @@ FROM (
     FROM Employees e
     LEFT JOIN Departments d ON e.dept_id = d.dept_id
     LEFT JOIN Salaries s ON e.emp_id = s.emp_id
-) t
+)
 WHERE rn = 1;

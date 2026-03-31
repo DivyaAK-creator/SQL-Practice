@@ -54,4 +54,18 @@ Day 12: Practiced GROUP BY queries
         
 Day 13: Mini Project Task
 
-Day 14:Deep Learning of PRIMARY KEY,FOREIGN KEY with small task.
+Day 14: Deep Learning of PRIMARY KEY,FOREIGN KEY with small task.
+
+Day 15: INNER JOIN
+        LEFT JOIN 
+        combining data from multiple tables.
+
+Day 16: Nested Queries (Subqueries) – writing queries inside queries.
+
+Day 17: Revision – recall of previously learned SQL concepts.
+
+Day 18: RANK, DENSE_RANK – ranking data using window functions.
+
+Day 19: Joins Practice – solving problems using different joins.
+
+Day 20: CASE (THEN), AS, LIKE – conditional logic, aliasing, pattern matching.

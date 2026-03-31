@@ -25,7 +25,7 @@ SELECT salesperson, SUM(amount) AS total_sales
 FROM sales
 GROUP BY salesperson
 HAVING SUM(amount) > 70000;
-SELECT city, COUNT(product) AS total_products
+SELECT city, count(product) AS total_products
 FROM sales
 GROUP BY city;
 

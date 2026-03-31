@@ -12,7 +12,7 @@ salary INT
 );
 
 INSERT INTO employees VALUES
-(1,'Rohith','IT',50000),
+(1,'Rohini','IT',50000),
 (2,'Divya','IT',60000),
 (3,'Hithesh','HR',45000),
 (4,'Rakshitha','HR',70000),

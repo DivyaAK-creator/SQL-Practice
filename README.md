@@ -69,3 +69,13 @@ Day 18: RANK, DENSE_RANK – ranking data using window functions.
 Day 19: Joins Practice – solving problems using different joins.
 
 Day 20: CASE (THEN), AS, LIKE – conditional logic, aliasing, pattern matching.
+
+Day 21: Learned different types of joins in SQL.
+
+Day 22: Practiced SQL queries to strengthen concepts.
+
+Day 23: Studied index creation for performance optimization.
+
+Day 24: Understood autocommit and transaction behavior.
+
+Day 25: Learned NULL handling and UNION operations.

@@ -79,3 +79,13 @@ Day 23: Studied index creation for performance optimization.
 Day 24: Understood autocommit and transaction behavior.
 
 Day 25: Learned NULL handling and UNION operations.
+
+Day 26: Practiced CALL and RECALL concepts for stored procedures execution.
+
+Day 27: Learned and implemented database TRIGGERS for automation.
+
+Day 28: Revised COMMIT, AUTOCOMMIT, and transaction control concepts.
+
+Day 29: Focused on writing OPTIMIZED QUERIES for better performance.
+
+Day 30: Studied NORMALIZATION to design efficient and structured databases.

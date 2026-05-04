@@ -1,7 +1,7 @@
 SQL LEARNING JOURNEY 
-Hii! I am currently learning sql step by step and documenting my progress here.
+Hii! I am currently learning sql step by step and documenting my progress is here.
 
-Day 1 : CREATE DATABASE and how to use it,
+Day 1 : CREATE DATABASE and how to use it,     
         CREAT TABLE with data types ,
         ALTER TABLE (add,modify,,drop columns).
         
